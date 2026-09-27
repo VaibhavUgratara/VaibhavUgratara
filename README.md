@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Kumar Vaibhav Ugratara.<br>👨‍🎓 MCA<br>📚 I'm currently learning MERN.<br>🤝 I’m looking to collaborate on with people around and learn from them.<br>📫 You can contact me here on Github, LinkedIn or via Email.<br>🔗 My LinkedIn Profile: www.linkedin.com/in/kumar-vaibhav-ugratara-85029027b<br>🔗 My Email: kumarvaibhavugratara@gmail.com
+👋 Hi! I'm Kumar Vaibhav Ugratara.<br>👨‍🎓 MCA<br>📚 I'm currently learning MERN.<br>🤝 I’m looking to collaborate on with people around and learn from them.<br>📫 You can contact me here on Github, LinkedIn or via Email.<br>🔗 My LinkedIn Profile: www.linkedin.com/in/kumar-vaibhav-ugratara-85029027b<br>🔗 My Email: kumarvaibhavugratara@gmail.com<br>🔗 My Portfolio: https://portfolio-kv-ugratara.vercel.app/
 
 
 ## 🌐 Socials:
